@@ -7,7 +7,7 @@ Hello! <br><br>
 #### Language
 Java, C/C++, C#, Python, R, JavaScript, HTML/CSS, GoLang
 #### Web Tools
-SpringMVC, Spring Boot, Kafka, MongoDB, SQL, Redis, Flask, RabbitMQ, Spring Cloud, Nacos, Sentinel, etc.
+SpringMVC, Spring Boot, Kafka, MongoDB, SQL, Redis, Flask, RabbitMQ, Spring Cloud, Nacos, Sentinel, Servlet etc.
 #### ML/DL Tools
 PyTorch, Tensorflow, Tidyverse, Numpy, Pandas
  
